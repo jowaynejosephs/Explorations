@@ -7,8 +7,8 @@
 }
 
 .jumbotron {
-    background: url('https://static.bhphotovideo.com/explora/sites/default/files/shutterstock_337780691.jpg');
-    background-size:cover;
+    background: url('background.jpg');
+    /* background-size:contain; */
 }
 
 .btn, .active,{
